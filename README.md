@@ -1,5 +1,5 @@
 # Linux Fundamentals Cheatsheet
-**Author:** Rodgers KIptoo Rono • **Location:** Berlin, Germany  
+**Author:** Rodgers Kiptoo Rono • **Location:** Berlin, Germany 
 **Project:** Hands-on Linux command practice on Ubuntu Server and Kali Linux.
 
 ---
@@ -10,16 +10,16 @@ This repo documents fundamental Linux commands and small exercises I performed i
 ---
 
 ## 🛠️ Tools & Environment
-- Virtualization: Oracle VirtualBox (Internal Network `intnet`)  
-- VMs: **Ubuntu Server** (IP: **192.168.56.20**) • **Kali Linux** (IP: **192.168.56.105**)  
+- Virtualization: Oracle VirtualBox (Internal Network `intnet`) 
+- VMs: **Ubuntu Server** (IP: **192.168.56.20**) • **Kali Linux** (IP: **192.168.56.105**) 
 - OS: Ubuntu 20.04 LTS (Server), Kali Linux 2023.x
 
 ---
 
 ## ✅ What I did
-1. Practiced basic filesystem and directory ops.  
-2. Managed users and file permissions.  
-3. Monitored processes and system health.  
+1. Practiced basic filesystem and directory ops. 
+2. Managed users and file permissions. 
+3. Monitored processes and system health. 
 4. Performed basic network checks and package management.
 
 ---

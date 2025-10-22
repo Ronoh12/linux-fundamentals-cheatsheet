@@ -6,19 +6,21 @@
        valid_lft forever preferred_lft forever
 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UP group default qlen 1000
     link/ether 08:00:27:1b:40:16 brd ff:ff:ff:ff:ff:ff
-    inet 192.168.56.105/24 brd 192.168.56.255 scope global dynamic noprefixroute eth0
-       valid_lft 310sec preferred_lft 310sec
+    inet 10.0.2.15/24 brd 10.0.2.255 scope global dynamic noprefixroute eth0
+       valid_lft 86261sec preferred_lft 86261sec
+    inet6 fd17:625c:f037:2:e8fb:ccb:a111:d51d/64 scope global temporary dynamic 
+       valid_lft 86334sec preferred_lft 14334sec
+    inet6 fd17:625c:f037:2:3892:c5f5:e168:5e60/64 scope global dynamic mngtmpaddr noprefixroute 
+       valid_lft 86334sec preferred_lft 14334sec
     inet6 fe80::147d:14f8:119f:51e/64 scope link noprefixroute 
        valid_lft forever preferred_lft forever
 3: eth1: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UP group default qlen 1000
     link/ether 08:00:27:0e:19:27 brd ff:ff:ff:ff:ff:ff
-    inet 10.0.3.15/24 brd 10.0.3.255 scope global dynamic noprefixroute eth1
-       valid_lft 86110sec preferred_lft 86110sec
-    inet6 fd17:625c:f037:3:d6de:5ba2:fbb3:61b/64 scope global dynamic noprefixroute 
-       valid_lft 86221sec preferred_lft 14221sec
-    inet6 fe80::9831:8436:794d:95b6/64 scope link noprefixroute 
+    inet 192.168.56.11/24 brd 192.168.56.255 scope global noprefixroute eth1
+       valid_lft forever preferred_lft forever
+    inet6 fe80::1702:5c45:f9f2:587b/64 scope link noprefixroute 
        valid_lft forever preferred_lft forever
 4: docker0: <NO-CARRIER,BROADCAST,MULTICAST,UP> mtu 1500 qdisc noqueue state DOWN group default 
-    link/ether 02:42:e8:0a:b4:e3 brd ff:ff:ff:ff:ff:ff
+    link/ether 02:42:f3:28:72:63 brd ff:ff:ff:ff:ff:ff
     inet 172.17.0.1/16 brd 172.17.255.255 scope global docker0
        valid_lft forever preferred_lft forever

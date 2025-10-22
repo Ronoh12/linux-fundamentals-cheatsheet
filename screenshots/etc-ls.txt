@@ -1,6 +1,6 @@
-total 1584
-drwxr-xr-x 189 root     root     12288 Sep 23 07:56 .
-drwxr-xr-x  19 root     root      4096 Jun  5 11:51 ..
+total 1580
+drwxr-xr-x 189 root     root     12288 Oct 22 02:02 .
+drwxr-xr-x  19 root     root      4096 Sep 23 08:49 ..
 drwxr-xr-x   3 root     root      4096 Aug 21  2024 .java
 -rw-------   1 root     root         0 Aug 21  2024 .pwd.lock
 -rw-r--r--   1 root     root       208 Aug 21  2024 .updated
@@ -17,7 +17,7 @@ drwxr-xr-x   2 root     root     36864 Jul 26 06:56 alternatives
 drwxr-xr-x   8 root     root      4096 Aug 21  2024 apache2
 drwxr-xr-x   2 root     root      4096 Aug 21  2024 apparmor
 drwxr-xr-x   9 root     root      4096 Nov 16  2024 apparmor.d
-drwxr-xr-x   8 root     root      4096 Sep 23 04:49 apt
+drwxr-xr-x   8 root     root      4096 Sep 23 08:40 apt
 drwxr-xr-x   2 root     root      4096 Aug 21  2024 arp-scan
 drwxr-xr-x   3 root     root      4096 Aug 21  2024 avahi
 -rw-r--r--   1 root     root      1994 May 10  2024 bash.bashrc
@@ -28,3 +28,13 @@ drwxr-xr-x   2 root     root      4096 Apr 24  2024 binfmt.d
 drwxr-xr-x   2 root     root      4096 Aug 21  2024 bluetooth
 drwxr-xr-x   3 root     root      4096 Aug 21  2024 ca-certificates
 -rw-r--r--   1 root     root      6288 Aug 21  2024 ca-certificates.conf
+drwxr-s---   2 root     dip       4096 Aug 21  2024 chatscripts
+drwxr-xr-x   2 root     root      4096 Aug 21  2024 chromium
+drwxr-xr-x   2 root     root      4096 Aug 21  2024 chromium.d
+drwxr-xr-x   2 root     root      4096 Aug 21  2024 cifs-utils
+drwxr-xr-x   3 root     root      4096 Aug 21  2024 cloud
+drwxr-xr-x   3 root     root      4096 Aug  2 13:18 cni
+drwxr-xr-x   2 colord   colord    4096 Aug 22  2024 colord
+drwxr-xr-x   2 root     root      4096 Aug 21  2024 console-setup
+drwxr-xr-x   2 root     root      4096 Aug  2 13:18 containerd
+drwxr-xr-x   2 root     root      4096 Aug 21  2024 cracklib
