@@ -7,11 +7,11 @@
 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UP group default qlen 1000
     link/ether 08:00:27:1b:40:16 brd ff:ff:ff:ff:ff:ff
     inet 10.0.2.15/24 brd 10.0.2.255 scope global dynamic noprefixroute eth0
-       valid_lft 86261sec preferred_lft 86261sec
+       valid_lft 85747sec preferred_lft 85747sec
     inet6 fd17:625c:f037:2:e8fb:ccb:a111:d51d/64 scope global temporary dynamic 
-       valid_lft 86334sec preferred_lft 14334sec
+       valid_lft 86309sec preferred_lft 14309sec
     inet6 fd17:625c:f037:2:3892:c5f5:e168:5e60/64 scope global dynamic mngtmpaddr noprefixroute 
-       valid_lft 86334sec preferred_lft 14334sec
+       valid_lft 86309sec preferred_lft 14309sec
     inet6 fe80::147d:14f8:119f:51e/64 scope link noprefixroute 
        valid_lft forever preferred_lft forever
 3: eth1: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UP group default qlen 1000

@@ -1,4 +1,4 @@
-# Linux Fundamentals Cheatsheet
+<# Linux Fundamentals Cheatsheet
 **Author:** Rodgers Kiptoo Rono • **Location:** Berlin, Germany 
 **Project:** Hands-on Linux command practice on Ubuntu Server and Kali Linux.
 
@@ -10,8 +10,8 @@ This repo documents fundamental Linux commands and small exercises I performed i
 ---
 
 ## 🛠️ Tools & Environment
-- Virtualization: Oracle VirtualBox (Internal Network `intnet`) 
-- VMs: **Ubuntu Server** (IP: **192.168.56.20**) • **Kali Linux** (IP: **192.168.56.105**) 
+- Virtualization: Oracle VirtualBox (Internal Network `lab-net`) 
+- VMs: **Ubuntu Server** (IP: **192.168.56.10**) • **Kali Linux** (IP: **192.168.56.105**) 
 - OS: Ubuntu 20.04 LTS (Server), Kali Linux 2023.x
 
 ---
@@ -62,3 +62,24 @@ sudo apt update
 sudo apt install -y htop
 dpkg -l | grep htop
 sudo apt remove -y htop
+# 🐧 Linux Fundamentals Cheatsheet
+
+**Project Goal:**  
+Document key Linux commands and collect system evidence from both Kali and Ubuntu environments.
+
+---
+
+## 📂 Evidence
+
+- screenshots/ubuntu-ip-a.txt
+- screenshots/ubuntu-etc-ls.txt
+- screenshots/ubuntu-pwd-whoami.txt
+
+---
+
+## 🧪 How to Reproduce
+
+1. Create Ubuntu Server and Kali Linux VMs in VirtualBox on the same **Internal Network (lab-net)**.
+2. SSH from Kali into Ubuntu:
+   ```bash
+   ssh rkruser@192.168.56.10
