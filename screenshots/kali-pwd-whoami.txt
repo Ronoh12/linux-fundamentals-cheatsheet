@@ -1,0 +1,5 @@
+PWD:
+/home/rodgers/projects/linux-fundamentals-cheatsheet
+
+WHOAMI:
+rodgers

@@ -83,3 +83,19 @@ Document key Linux commands and collect system evidence from both Kali and Ubunt
 2. SSH from Kali into Ubuntu:
    ```bash
    ssh rkruser@192.168.56.10
+
+## 🐉 Kali Linux Evidence
+
+- screenshots/kali-ip-a.txt
+- screenshots/kali-etc-ls.txt
+- screenshots/kali-pwd-whoami.txt
+- (Optional) screenshots/kali-terminal.png
+
+---
+
+## 🧠 Summary of What I Learned
+
+- Learned how to use `ip a`, `ls`, `pwd`, and `whoami` for basic system discovery.
+- Practiced using SSH between Kali and Ubuntu.
+- Understood VirtualBox networking using Internal Networks.
+- Learned basic Git and GitHub workflow (add, commit, push).
